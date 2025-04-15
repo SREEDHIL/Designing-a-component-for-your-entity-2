@@ -17,5 +17,4 @@ const productcard = () => {
   )
 }
 
-export default productcard
-
+export default productcard;
