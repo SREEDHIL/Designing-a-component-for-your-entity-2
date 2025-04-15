@@ -1,6 +1,5 @@
 import './App.css';
-
-import Productcard from './components/ProductCard.jsx';
+import Productcard from './components/productcard';
 
 function App() {
   const cards = Array.from({ length: 10 });
